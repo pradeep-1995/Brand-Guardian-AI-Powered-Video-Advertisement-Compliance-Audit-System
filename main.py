@@ -12,7 +12,7 @@ compliance audit workflow. Think of it as the master switch that:
 import uuid      # Generates unique IDs (like session tracking numbers)
 import json      # Handles JSON data formatting (converts Python dicts to readable text)
 import logging   # Records what happens during execution (like a flight recorder)
-from pprint import pprint  # Pretty-prints data structures (unused here, but available)
+#from pprint import pprint  # Pretty-prints data structures (unused here, but available)
 
 
 # Load environment variables from .env file
